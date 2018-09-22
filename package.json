@@ -1,0 +1,24 @@
+{
+  "name": "Scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbericoD/scanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbericoD/scanner/issues"
+  },
+  "homepage": "https://github.com/AlbericoD/scanner#readme",
+  "dependencies": {
+    "usb-barcode-scanner": "^1.0.1"
+  }
+}
